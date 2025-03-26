@@ -28,7 +28,7 @@ int main(){
     --ex;
     cout << "After --x: ";
     ex.display();
-    //ex--.display();
+    ex--.display();
     cout << "After x--: ";
     ex.display();
 
