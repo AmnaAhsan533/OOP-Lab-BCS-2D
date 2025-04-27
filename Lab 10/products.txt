@@ -1,0 +1,3 @@
+P1,Laptop,High performance laptop,1500
+P2,Smartphone,Latest model smartphone,800
+P3,Tablet,New generation tablet,600
